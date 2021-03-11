@@ -1,0 +1,548 @@
+# depslib dependency file v1.0
+1615465451 source:/home/vadim/Deribit/main.cpp
+	<json/json.h>
+	"curl/curl.h"
+	"Derib_websocket.h"
+	"DeribCPP.h"
+
+1606845670 /home/vadim/Deribit/libcurl/include/curl/curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1606845670 /home/vadim/Deribit/libcurl/include/curl/curlver.h
+
+1606845670 /home/vadim/Deribit/libcurl/include/curl/system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1606845670 /home/vadim/Deribit/libcurl/include/curl/easy.h
+
+1606845670 /home/vadim/Deribit/libcurl/include/curl/multi.h
+	"curl.h"
+
+1606845670 /home/vadim/Deribit/libcurl/include/curl/typecheck-gcc.h
+
+1606845670 /usr/include/x86_64-linux-gnu//curl/curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1606845670 /usr/include/x86_64-linux-gnu//curl/curlver.h
+
+1606845670 /usr/include/x86_64-linux-gnu//curl/system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//sys/types.h
+	<features.h>
+	<bits/types.h>
+	<bits/types/clock_t.h>
+	<bits/types/clockid_t.h>
+	<bits/types/time_t.h>
+	<bits/types/timer_t.h>
+	<stddef.h>
+	<bits/stdint-intn.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/wordsize.h
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/typesizes.h
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types/clock_t.h
+	<bits/types.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types/clockid_t.h
+	<bits/types.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types/time_t.h
+	<bits/types.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types/timer_t.h
+	<bits/types.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/stdint-intn.h
+	<bits/types.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/types/sigset_t.h>
+	<bits/types/time_t.h>
+	<bits/types/struct_timeval.h>
+	<bits/types/struct_timespec.h>
+	<bits/select2.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/select.h
+	<bits/wordsize.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types/sigset_t.h
+	<bits/types/__sigset_t.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types/__sigset_t.h
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types/struct_timeval.h
+	<bits/types.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types/struct_timespec.h
+	<bits/types.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/select2.h
+
+1607359089 /usr/include/x86_64-linux-gnu//sys/sysmacros.h
+	<features.h>
+	<bits/types.h>
+	<bits/sysmacros.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/sysmacros.h
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/pthreadtypes.h
+	<bits/thread-shared-types.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/thread-shared-types.h
+	<bits/pthreadtypes-arch.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/pthreadtypes-arch.h
+	<bits/wordsize.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//sys/socket.h
+	<features.h>
+	<bits/types/struct_iovec.h>
+	<stddef.h>
+	<bits/socket.h>
+	<bits/types/struct_osockaddr.h>
+	<bits/socket2.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types/struct_iovec.h
+	<stddef.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/socket.h
+	<stddef.h>
+	<sys/types.h>
+	<bits/socket_type.h>
+	<bits/sockaddr.h>
+	<asm/socket.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/socket_type.h
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/sockaddr.h
+
+1611790303 /usr/include/x86_64-linux-gnu//asm/socket.h
+	<asm-generic/socket.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/types/struct_osockaddr.h
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/socket2.h
+
+1607359089 /usr/include/x86_64-linux-gnu//sys/poll.h
+	<features.h>
+	<bits/poll.h>
+	<bits/types/__sigset_t.h>
+	<bits/types/struct_timespec.h>
+	<bits/poll2.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/poll.h
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/poll2.h
+
+1607359089 /usr/include/x86_64-linux-gnu//sys/time.h
+	<features.h>
+	<bits/types.h>
+	<bits/types/time_t.h>
+	<bits/types/struct_timeval.h>
+	<sys/select.h>
+
+1606845670 /usr/include/x86_64-linux-gnu//curl/easy.h
+
+1606845670 /usr/include/x86_64-linux-gnu//curl/multi.h
+	"curl.h"
+
+1606845670 /usr/include/x86_64-linux-gnu//curl/typecheck-gcc.h
+
+1614703946 /home/vadim/Deribit/jsoncpp/include/json/json.h
+	<stddef.h>
+	<string>
+	<stdint.h>
+	<cpptl/config.h>
+	"version.h"
+	"allocator.h"
+	"config.h"
+	"forwards.h"
+	"forwards.h"
+	<string>
+	<vector>
+	<exception>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+	"features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<stack>
+	<string>
+	<istream>
+	"value.h"
+	<vector>
+	<string>
+	<ostream>
+	<stdlib.h>
+	<sstream>
+	"config.h"
+
+1614703946 source:/home/vadim/Deribit/jsoncpp/src/jsoncpp.cpp
+	"json/json.h"
+	<clocale>
+	<json/assertions.h>
+	<json/reader.h>
+	<json/value.h>
+	"json_tool.h"
+	<utility>
+	<cstdio>
+	<cassert>
+	<cstring>
+	<istream>
+	<sstream>
+	<memory>
+	<set>
+	<limits>
+	<json/assertions.h>
+	<json/value.h>
+	<json/writer.h>
+	<math.h>
+	<sstream>
+	<utility>
+	<cstring>
+	<cassert>
+	<cpptl/conststring.h>
+	<cstddef>
+	<algorithm>
+	"json_valueiterator.inl"
+	<json/writer.h>
+	"json_tool.h"
+	<iomanip>
+	<memory>
+	<sstream>
+	<utility>
+	<set>
+	<cassert>
+	<cstring>
+	<cstdio>
+	<float.h>
+	<ieeefp.h>
+	<math.h>
+	<math.h>
+	<cmath>
+	<float.h>
+
+1615463950 source:/home/vadim/Deribit/DeribCPP.cpp
+	"DeribCPP.h"
+
+1615463890 /home/vadim/Deribit/DeribCPP.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<fstream>
+	<string>
+	<map>
+	<vector>
+	<exception>
+	<curl/curl.h>
+	<json/json.h>
+
+1615464108 source:/home/vadim/Deribit/Derib_websocket.cpp
+	"Derib_websocket.h"
+	"DeribCPP.h"
+
+1615464139 /home/vadim/Deribit/Derib_websocket.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<iostream>
+	<string>
+	<map>
+	<exception>
+	<json/json.h>
+	<libwebsockets.h>
+
+1566145158 /home/vadim/Deribit/libwebsockets-2.4.0/include/libwebsockets.h
+	<cstddef>
+	<cstdarg>
+	<stdarg.h>
+	"lws_config.h"
+	<stdint.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stddef.h>
+	<basetsd.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/capability.h>
+	<netinet/in.h>
+	<poll.h>
+	<netdb.h>
+	<unistd.h>
+	<ev.h>
+	<uv.h>
+	<uv-version.h>
+	<event2/event.h>
+	<sys/time.h>
+	<unistd.h>
+	<cyassl/openssl/ssl.h>
+	<cyassl/error-ssl.h>
+	<wolfssl/openssl/ssl.h>
+	<wolfssl/error-ssl.h>
+	<mbedtls/ssl.h>
+	<openssl/ssl.h>
+	<openssl/err.h>
+	<stddef.h>
+	<user_interface.h>
+	<espconn.h>
+	<os_type.h>
+	<osapi.h>
+	"ets_sys.h"
+	<freertos/FreeRTOS.h>
+	<freertos/event_groups.h>
+	<string.h>
+	"esp_wifi.h"
+	"esp_system.h"
+	"esp_event.h"
+	"esp_event_loop.h"
+	"nvs.h"
+	"driver/gpio.h"
+	"esp_spi_flash.h"
+	"freertos/timers.h"
+	<mdns.h>
+	<esp_partition.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<stdint.h>
+	<mbedtls/sha1.h>
+	<mbedtls/sha256.h>
+	<mbedtls/sha512.h>
+
+1566145158 /home/vadim/Deribit/libwebsockets-2.4.0/include/lws_config.h
+
+1607359089 /usr/include/x86_64-linux-gnu//sys/stat.h
+	<features.h>
+	<bits/types.h>
+	<bits/types/struct_timespec.h>
+	<bits/types/time_t.h>
+	<bits/stat.h>
+
+1607359089 /usr/include/x86_64-linux-gnu//bits/stat.h
+
+1614703946 /home/vadim/Deribit/3rd_library/jsoncpp/include/json/json.h
+	<stddef.h>
+	<string>
+	<stdint.h>
+	<cpptl/config.h>
+	"version.h"
+	"allocator.h"
+	"config.h"
+	"forwards.h"
+	"forwards.h"
+	<string>
+	<vector>
+	<exception>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+	"features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<stack>
+	<string>
+	<istream>
+	"value.h"
+	<vector>
+	<string>
+	<ostream>
+	<stdlib.h>
+	<sstream>
+	"config.h"
+
+1566145158 /home/vadim/Deribit/3rd_library/libwebsockets-2.4.0/include/libwebsockets.h
+	<cstddef>
+	<cstdarg>
+	<stdarg.h>
+	"lws_config.h"
+	<stdint.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stddef.h>
+	<basetsd.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/capability.h>
+	<netinet/in.h>
+	<poll.h>
+	<netdb.h>
+	<unistd.h>
+	<ev.h>
+	<uv.h>
+	<uv-version.h>
+	<event2/event.h>
+	<sys/time.h>
+	<unistd.h>
+	<cyassl/openssl/ssl.h>
+	<cyassl/error-ssl.h>
+	<wolfssl/openssl/ssl.h>
+	<wolfssl/error-ssl.h>
+	<mbedtls/ssl.h>
+	<openssl/ssl.h>
+	<openssl/err.h>
+	<stddef.h>
+	<user_interface.h>
+	<espconn.h>
+	<os_type.h>
+	<osapi.h>
+	"ets_sys.h"
+	<freertos/FreeRTOS.h>
+	<freertos/event_groups.h>
+	<string.h>
+	"esp_wifi.h"
+	"esp_system.h"
+	"esp_event.h"
+	"esp_event_loop.h"
+	"nvs.h"
+	"driver/gpio.h"
+	"esp_spi_flash.h"
+	"freertos/timers.h"
+	<mdns.h>
+	<esp_partition.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<stdint.h>
+	<mbedtls/sha1.h>
+	<mbedtls/sha256.h>
+	<mbedtls/sha512.h>
+
+1566145158 /home/vadim/Deribit/3rd_library/libwebsockets-2.4.0/include/lws_config.h
+
+1606845670 /home/vadim/Deribit/3rd_library/libcurl/include/curl/curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1606845670 /home/vadim/Deribit/3rd_library/libcurl/include/curl/curlver.h
+
+1606845670 /home/vadim/Deribit/3rd_library/libcurl/include/curl/system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1606845670 /home/vadim/Deribit/3rd_library/libcurl/include/curl/easy.h
+
+1606845670 /home/vadim/Deribit/3rd_library/libcurl/include/curl/multi.h
+	"curl.h"
+
+1606845670 /home/vadim/Deribit/3rd_library/libcurl/include/curl/typecheck-gcc.h
+
+1614703946 source:/home/vadim/Deribit/3rd_library/jsoncpp/src/jsoncpp.cpp
+	"json/json.h"
+	<clocale>
+	<json/assertions.h>
+	<json/reader.h>
+	<json/value.h>
+	"json_tool.h"
+	<utility>
+	<cstdio>
+	<cassert>
+	<cstring>
+	<istream>
+	<sstream>
+	<memory>
+	<set>
+	<limits>
+	<json/assertions.h>
+	<json/value.h>
+	<json/writer.h>
+	<math.h>
+	<sstream>
+	<utility>
+	<cstring>
+	<cassert>
+	<cpptl/conststring.h>
+	<cstddef>
+	<algorithm>
+	"json_valueiterator.inl"
+	<json/writer.h>
+	"json_tool.h"
+	<iomanip>
+	<memory>
+	<sstream>
+	<utility>
+	<set>
+	<cassert>
+	<cstring>
+	<cstdio>
+	<float.h>
+	<ieeefp.h>
+	<math.h>
+	<math.h>
+	<cmath>
+	<float.h>
+
